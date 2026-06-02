@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\filmycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\filmycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\filmyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\filmyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 09.it\\documents\\github\\zadanie-4-wariat-3-chaosrobe\\webapi\\webapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -39,19 +51,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-02T10:39:06.001Z",
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\IDataService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\IDataService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\IDataService.cs",
+              "RelativeToolTip": "WebAPI\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:13:21.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FilmyController.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\FilmyController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\FilmyController.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\FilmyController.cs",
+              "RelativeToolTip": "WebAPI\\FilmyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:32:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\DataService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DataService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\DataService.cs",
+              "RelativeToolTip": "WebAPI\\DataService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:14:05.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmyEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\FilmyEntity.cs",
+              "RelativeDocumentMoniker": "WebAPI\\FilmyEntity.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\FilmyEntity.cs",
+              "RelativeToolTip": "WebAPI\\FilmyEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:57:23.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WebAPI",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\WebAPI.csproj",
               "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
@@ -63,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\.gitignore",
               "RelativeDocumentMoniker": "WebAPI\\.gitignore",
@@ -76,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
@@ -89,26 +140,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T10:28:06.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WebAPI.http",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\WebAPI.http",
               "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
               "ToolTip": "C:\\Users\\Student RM4-3073 09.IT\\Documents\\GitHub\\zadanie-4-wariat-3-chaosRobe\\WebAPI\\WebAPI\\WebAPI.http",
               "RelativeToolTip": "WebAPI\\WebAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-06-02T10:28:01.736Z",
               "EditorCaption": ""
