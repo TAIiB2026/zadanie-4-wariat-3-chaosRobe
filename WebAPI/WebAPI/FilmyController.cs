@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI
 {
@@ -18,12 +18,18 @@ namespace WebAPI
             var filmy = await _dataService.GetFilmyDataAsync();
             return Ok(filmy);
         }
+
         [HttpGet("lista/{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var filmy = await _dataService.GetFilmyDataAsync();
+            var filmy = await _dataService.GetFilmyDataByIdAsync(id);
+            if (filmy == null)
+            {
+                return NotFound();
+            }
             return Ok(filmy);
         }
+
         [HttpPost("formularz")]
         public async Task<IActionResult> Post([FromBody] NewFilmyDto newFilmyDto)
         {
@@ -32,7 +38,7 @@ namespace WebAPI
                 return BadRequest(ModelState);
             }
 
-            var success = await _dataService.GetFormularzDataAsync(newFilmyDto);
+            var success = await _dataService.PostFormularzDataAsync(newFilmyDto);
 
             if (success)
             {
@@ -40,6 +46,24 @@ namespace WebAPI
             }
 
             return BadRequest("Wystąpił błąd podczas dodawania filmu.");
+        }
+
+        [HttpPut("formularz")]
+        public async Task<IActionResult> Put([FromBody] FilmyDto filmyDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var success = await _dataService.PutFormularzDataAsync(filmyDto);
+
+            if (success)
+            {
+                return Ok(new { message = "Film został pomyślnie zaktualizowany." });
+            }
+
+            return BadRequest("Wystąpił błąd podczas edycji filmu.");
         }
     }
 }

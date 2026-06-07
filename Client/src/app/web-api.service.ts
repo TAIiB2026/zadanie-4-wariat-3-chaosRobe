@@ -17,8 +17,9 @@ export class WebApiService {
   Get(): Observable<FilmClass[]> {
     return this.http.get<FilmClass[]>(`${this.apiUrl}/lista`);
   }
-  GetbyID(): Observable<FilmClass[]> {
-    return this.http.get<FilmClass[]>(`${this.apiUrl}/lista`);
+
+  GetByID(id: number): Observable<FilmClass> {
+    return this.http.get<FilmClass>(`${this.apiUrl}/lista/${id}`);
   }
 
   
@@ -45,7 +46,7 @@ export class WebApiService {
     };
 
    
-    return this.http.put(`${this.apiUrl}/${id}`, body).pipe(
+    return this.http.put(`${this.apiUrl}/formularz`, body).pipe(
       map(() => true)
     );
   }
